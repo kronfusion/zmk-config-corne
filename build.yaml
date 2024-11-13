@@ -78,9 +78,6 @@ include:
     # shield: corne_left_peripheral nice_view_adapter nice_view
     cmake-args: -DCONFIG_NICE_VIEW_GEM_ANIMATION=n
     artifact-name: nice_corne_left_peripheral
-  - board: puchi_ble_v1
-    shield: corne_left_peripheral nice_view_adapter nice_view
-    artifact-name: puchi_corne_left_peripheral
 
     # Xiao_Dongle
   - board: seeeduino_xiao_ble
