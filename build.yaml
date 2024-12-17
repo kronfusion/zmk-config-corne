@@ -26,4 +26,4 @@ include:
   - board: nice_nano_v2
     shield: corne_right
   - board: nice_nano_v2
-    shield: setttings_reset
+    shield: settings_reset
